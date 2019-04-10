@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DungeonEater.Plugins", "DungeonEater.Plugins.csproj", "{D893C24F-4CDD-26C0-E3B2-8950A17A7415}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DungeonEater", "DungeonEater.csproj", "{7C978435-543A-A2BA-ED0D-058414821589}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DungeonEater.Editor", "DungeonEater.Editor.csproj", "{CA67F923-F2C4-CB72-C70E-EBC2F4F5A137}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D893C24F-4CDD-26C0-E3B2-8950A17A7415}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D893C24F-4CDD-26C0-E3B2-8950A17A7415}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D893C24F-4CDD-26C0-E3B2-8950A17A7415}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D893C24F-4CDD-26C0-E3B2-8950A17A7415}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C978435-543A-A2BA-ED0D-058414821589}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C978435-543A-A2BA-ED0D-058414821589}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C978435-543A-A2BA-ED0D-058414821589}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C978435-543A-A2BA-ED0D-058414821589}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA67F923-F2C4-CB72-C70E-EBC2F4F5A137}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA67F923-F2C4-CB72-C70E-EBC2F4F5A137}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA67F923-F2C4-CB72-C70E-EBC2F4F5A137}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA67F923-F2C4-CB72-C70E-EBC2F4F5A137}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
